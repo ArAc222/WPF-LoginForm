@@ -30,7 +30,7 @@ namespace WPF_LoginForm
             string userName = nameBox.Text;
             string password = passBox.Password;
 
-            MessageBox.Show($"Admin info:\nUser: {userName} with Password: {password} just logged inn.");
+            MessageBox.Show($"Admin info:\nUser: {userName} with Password: {password} just logged in.");
 
 
         }
